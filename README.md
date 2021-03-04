@@ -8,4 +8,4 @@ Meyer-Aurich, A., Piepho, H.-P., Karatay, Y.N., Hunstock, U: Entwicklung eines e
 
 
 ## Start on binder
-https://mybinder.org/v2/gh/ATB-Potsdam/N_opt_economic/HEAD?filepath=Nopt_xpl.ipynb
+https://mybinder.org/v2/gh/ATB-Potsdam/N_opt_economic/HEAD?filepath=Nopt_xlp.ipynb
