@@ -5,3 +5,7 @@ Der dargestellte alternative Ansatz basiert auf der Berechnung des mittleren Gre
 Das Ergebnis wird graphisch und numerisch ausgegeben.
 
 Meyer-Aurich, A., Piepho, H.-P., Karatay, Y.N., Hunstock, U: Entwicklung eines einfachen Ansatzes zur Schätzung ökonomisch optimaler Stickstoffdüngemengen auf der Basis von Feldversuchsdaten. Referate der 41. GIL Jahrestagung in Potsdam 8.-9. März 2021, GI Lecture Notes in Informatics 309.
+
+
+## Start on binder
+https://mybinder.org/v2/gh/ATB-Potsdam/N_opt_economic/HEAD?filepath=Nopt_xpl.ipynb
